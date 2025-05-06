@@ -1,0 +1,1 @@
+{"rnn_units_1": 256, "rnn_units_2": 256, "rnn_units_3": 32, "dense_units_1": 256, "dense_units_2": 64, "dropout_rate_1": 0.45, "dropout_rate_2": 0.5, "learning_rate": 0.0007217062969809708, "batch_size": 32}

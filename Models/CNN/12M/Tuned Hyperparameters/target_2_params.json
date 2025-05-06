@@ -1,0 +1,1 @@
+{"conv_filters_1": 256, "conv_filters_2": 128, "conv_filters_3": 128, "dense_units_1": 256, "dense_units_2": 128, "dropout_rate_1": 0.30000000000000004, "dropout_rate_2": 0.35000000000000003, "learning_rate": 0.005045481668586498, "batch_size": 64}

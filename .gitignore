@@ -1,0 +1,18 @@
+
+# ignore all .txt files
+*.txt
+
+# ignore all .pkl files
+#*.pkl
+
+# ignore all .json files
+#*.json
+
+# ignore all .npy files
+#*.npy
+
+# ignore all .png files
+#*.png
+
+# ignore all .keras files
+#*.keras
